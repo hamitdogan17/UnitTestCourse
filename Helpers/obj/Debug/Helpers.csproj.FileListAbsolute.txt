@@ -1,0 +1,6 @@
+C:\Users\ehamdog\source\repos\UnitTestCourse\Helpers\bin\Debug\Helpers.dll
+C:\Users\ehamdog\source\repos\UnitTestCourse\Helpers\bin\Debug\Helpers.pdb
+C:\Users\ehamdog\source\repos\UnitTestCourse\Helpers\obj\Debug\Helpers.csprojAssemblyReference.cache
+C:\Users\ehamdog\source\repos\UnitTestCourse\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\ehamdog\source\repos\UnitTestCourse\Helpers\obj\Debug\Helpers.dll
+C:\Users\ehamdog\source\repos\UnitTestCourse\Helpers\obj\Debug\Helpers.pdb
